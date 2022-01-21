@@ -6,6 +6,7 @@ This repository is the official implementation of [Fast Generic Interaction Dete
 > 
 
  <img src="figures/fixupRes.png" width = "400" height = "300" alt="图片名称" align=center />
+ 
 ## Requirements 
 
 ### Requirements for the demo (PyTorch)
