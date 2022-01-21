@@ -20,7 +20,7 @@ matplotlib==3.1.1
 
 torch==1.1.0
 
-If you have installed latest Anaconda already, then you only need to install the PyTorch additionally. 
+If you have installed Anaconda already, then you only need to install the PyTorch additionally. 
 
 For practitioners who don't have GPU devices and for those who are not familiar with MXNet, we provide a demo for the interaction detection with UCB algorithm implemented in PyTorch.
 
