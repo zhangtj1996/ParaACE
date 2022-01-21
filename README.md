@@ -4,8 +4,8 @@ This repository is the official implementation of [Fast Generic Interaction Dete
 
 > We cast the interaction detection problem as a multi-arm bandits problem, and use the detected interactions to build a lightweight and interpretable model named ParaACE. 
 > 
-![](figures/fixupRes.png)
 
+ <img src="figures/fixupRes.png" width = "400" height = "300" alt="图片名称" align=center />
 ## Requirements 
 
 ### Requirements for the demo (PyTorch)
@@ -48,6 +48,12 @@ This implementation needs GPU support, please install the packages according to 
 
 *Make sure that you have at least 10 GB of free space available on the hard disk.*
 
+
+## Quick Access
+To have a quick access of interaction dectection, please find the demos in the demo_pytorch folder.
+
+
+
 ## Datasets
 
 ### Synthetic datasets
@@ -70,7 +76,7 @@ Cal housing https://www.dcc.fc.up.pt/~ltorgo/Regression/DataSets.html
 
 Drug combination https://zenodo.org/record/4135059
 
-## Usage
+## Reproducibility
 
 Different experiments are conducted in different folders. 
 
@@ -92,3 +98,9 @@ python LTHmain.py
 ```
 
 You can visualize the results from the `.ipynb` file.
+
+
+Please contact me if you have any questions on the reproducibility of the code. Email: tianjianzhang at link dot cuhk dot edu dot cn  
+
+## Reference
+If our code is helpful in your research, please cite the following:
