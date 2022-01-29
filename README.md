@@ -105,3 +105,13 @@ Please contact me if you have any questions on the reproducibility of the code. 
 
 ## Reference
 If our code is helpful in your research, please cite the following:
+```
+@inproceedings{
+zhang2022fast,
+title={Fast Generic Interaction Detection for Model Interpretability and Compression},
+author={Tianjian Zhang and Feng Yin and Zhi-Quan Luo},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=fQTlgI2qZqE}
+}
+```
