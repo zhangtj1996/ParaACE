@@ -5,7 +5,7 @@ This repository is the official implementation of [Fast Generic Interaction Dete
 > We cast the interaction detection problem as a multi-arm bandits problem, and use the detected interactions to build a lightweight and interpretable model named ParaACE. 
 > 
 
- <img src="figures/fixupRes.png" width = "400" height = "300" alt="图片名称" align=center />
+ <img src="figures/ParaACE1.png" width = "900" height = "400" alt="图片名称" align=center />
  
 ## Requirements 
 
