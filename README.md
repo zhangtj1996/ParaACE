@@ -1,6 +1,6 @@
 # Fast Generic Interaction Detection for Model Interpretability and Compression
 
-This repository is the official implementation of [Fast Generic Interaction Detection for Model Interpretability and Compression]. The code mainly relies on the MXNet package, for those who are not familiar with MXNet, we also provide a PyTorch demo for the interaction detection task. 
+This repository is the official implementation of [Fast Generic Interaction Detection for Model Interpretability and Compression](https://openreview.net/forum?id=fQTlgI2qZqE). The code mainly relies on the MXNet package, for those who are not familiar with MXNet, we also provide a PyTorch demo for the interaction detection task. 
 
 > We cast the interaction detection problem as a multi-arm bandits problem, and use the detected interactions to build a lightweight and interpretable model named ParaACE. 
 > 
