@@ -7,6 +7,10 @@ This repository is the official implementation of [Fast Generic Interaction Dete
 
  <img src="figures/ParaACE1.png" width = "900" height = "400" alt="图片名称" align=center />
  
+ See detected interactions below.
+ 
+  <img src="figures/interactions_vis.png" width = "900" height = "400" alt="图片名称" align=center />
+ 
 ## Requirements 
 
 ### Requirements for the demo (PyTorch)
