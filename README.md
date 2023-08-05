@@ -104,11 +104,14 @@ python LTHmain.py
 
 You can visualize the results from the `.ipynb` file.
 
+## Build your own model considering interactions
+
+Almost all machine learning models can be decomposed into interaction blocks. We additional give a case for GP regression with additive kernel. 
 
 Please contact me if you have any questions on the reproducibility of the code. Email: tianjianzhang at link dot cuhk dot edu dot cn  
 
 ## Reference
-If our code is helpful in your research, please cite the following:
+If this repo is helpful in your research, please cite the following:
 ```
 @inproceedings{
 zhang2022fast,
