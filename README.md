@@ -106,9 +106,11 @@ You can visualize the results from the `.ipynb` file.
 
 ## Build your own model considering interactions
 
-Almost all machine learning models can be decomposed into interaction blocks. We additional give a case for GP regression with additive kernel. 
+Almost all machine learning models can be decomposed into interaction blocks. We additionally give a case for GP regression with additive kernel. 
 
-Please contact me if you have any questions on the reproducibility of the code. Email: tianjianzhang at link dot cuhk dot edu dot cn  
+
+
+##### Please feel free to contact me if you have any questions about the reproducibility of the code. Email: tianjianzhang at link dot cuhk dot edu dot cn  
 
 ## Reference
 If this repo is helpful in your research, please cite the following:
